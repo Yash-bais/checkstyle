@@ -57,7 +57,7 @@ public class InputLeftCurlyWithEmoji {
             }
 
             if (x.equals("🎄🤣🎄     🤣"))  switch ("🤣🎄🤣🎄🤣") {
-                    case "qw": { return; } // violation 'column 32 should have line break after'
+                    case "go": { return; } // violation 'column 32 should have line break after'
                     default: {
                         return;
                     }

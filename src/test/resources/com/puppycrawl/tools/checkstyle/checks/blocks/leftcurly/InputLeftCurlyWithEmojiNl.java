@@ -58,7 +58,7 @@ public class InputLeftCurlyWithEmojiNl
             }
 
             switch("🤣🤣🤣") { // violation ''{' at column 27 should be on a new line.'
-                case "qw": {return; } // violation ''{' at column 28 should be on a new line.'
+                case "go": {return; } // violation ''{' at column 28 should be on a new line.'
                 default:
                 {
                     return;

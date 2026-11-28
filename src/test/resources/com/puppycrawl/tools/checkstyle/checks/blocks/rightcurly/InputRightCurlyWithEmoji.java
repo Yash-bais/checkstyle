@@ -39,7 +39,7 @@ public class InputRightCurlyWithEmoji {
             }
 
             switch ("🤣") {
-                case "qw": {
+                case "go": {
                     return;
                 }
                 default: {
